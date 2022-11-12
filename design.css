@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    border: 1px solid black;
+    font-family: sans-serif;
+}
+
+table, th, th{
+    border-collapse:collapse ;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+table{
+    border-spacing: 30px;
+}
+td{
+    text-decoration: underline;
+}
+th{
+    width: 50%;
+}
+a:hover{
+    color: green;
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+    color: red;
+}
